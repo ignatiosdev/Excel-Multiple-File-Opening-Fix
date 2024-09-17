@@ -17,4 +17,4 @@ To download and execute the script with one command, follow these steps:
 
 2. **Execute the Following Command:**
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ignatiosdev/Excel-Multiple-File-Opening-Fix/main/Fix-Excel-Opening-Issue.ps1" -OutFile "Fix-Excel-Opening-Issue.ps1"; .\Fix-Excel-Opening-Issue.ps1
+   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/ignatiosdev/Excel-Multiple-File-Opening-Fix/main/script.ps1" -OutFile "script.ps1"; .\script.ps1
