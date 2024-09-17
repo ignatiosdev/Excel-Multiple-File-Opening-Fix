@@ -2,8 +2,8 @@
 
 # Define registry paths and values
 $registryPaths = @(
-    "HKCR:\Excel.Sheet.8\shell\Open\ddeexec",
-    "HKCR:\Excel.Sheet.12\shell\Open\ddeexec"
+    "HKEY_CLASSES_ROOT\Excel.Sheet.12\shell\Open\ddeexec",  # For Excel 2013 and newer
+    "HKEY_CLASSES_ROOT\Excel.Sheet.8\shell\Open\ddeexec"    # For Excel 97-2003
 )
 
 $desiredValue = '[open("%1" /ou "%u")]'
