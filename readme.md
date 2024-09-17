@@ -1,10 +1,6 @@
-# Excel Multiple File Opening Fix
+# Microsoft Excel Multiple File Opening Fix
 
-This repository provides a PowerShell script to resolve performance issues with opening subsequent Excel files from File Explorer. If you experience delays or slow performance when opening Excel files while another Excel file is already open, this script can help fix that problem.
-
-## Purpose
-
-The script modifies specific registry settings to ensure faster opening of Excel files. It addresses an issue where Excel files opened from File Explorer take a long time to open if another Excel file is already running.
+ If you experience delays or slow performance when opening Excel files while another Excel file is already open, this script can help fix that problem.
 
 ## Instructions
 
