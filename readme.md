@@ -1,7 +1,3 @@
-# Microsoft Excel Multiple File Opening Fix
-
- If you experience delays or slow performance when opening Excel files while another Excel file is already open, this script can help fix that problem.
-
 ## Instructions
 
 ### Download and Run the Script
